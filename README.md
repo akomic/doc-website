@@ -1,2 +1,2 @@
-DevOps Challengde Website
-=========================
+DevOps Challenge Website
+========================
